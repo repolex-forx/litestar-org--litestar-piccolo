@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/litestar-org/litestar-piccolo/commit/943841d354bd6ffd190c246a4450ae8c71545947",
       "git:hexsha": "943841d354bd6ffd190c246a4450ae8c71545947",
-      "repolex:parseStatus": "metadata_complete",
+      "repolex:parseStatus": "ast_complete",
       "git:tagName": "v0.1.0"
     }
   ]
